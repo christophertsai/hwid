@@ -17,3 +17,7 @@ There may be some functionality on lower Windows versions, but it was not tested
 This project has been archived as it holds examples of handling common queries, but much of the code was hastily written.
 
 No future support will be given.
+
+## Fork
+
+As of now, no updates have been given. 
